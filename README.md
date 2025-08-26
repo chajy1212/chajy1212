@@ -2,16 +2,13 @@
 
 🎓 Graduate Student in **Brain and Cognitive Engineering** at Korea University
 
-
 🧪 Researcher at the **Brain Lab**, focusing on EEG-based AI
-
 
 🔬 Research Interests
 - **Brain-Computer Interfaces (BCI) using EEG**  
 - **Sleep Staging and Cognitive Neuroscience**  
 - **Self-Supervised and Representation Learning for Neural Signals**
 
-  
 📧 **Contact**: chajy1212@korea.ac.kr 
 
 <!--
