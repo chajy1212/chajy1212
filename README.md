@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F7A4A2&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Jeong-Yun+!!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F7B1B1&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi%2C+I'm+Jeong+Yun+!!)](https://git.io/typing-svg)
 
 <!--
 **chajy1212/chajy1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
