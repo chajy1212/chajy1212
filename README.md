@@ -4,7 +4,9 @@
 
 💻 B.S. in **Computer Science and Technology**, Beihang University (BUAA)
 
+
 🧪 Researcher at the **Brain Lab**, focusing on EEG-based AI
+
 
 🔬 **Research Interests**
 - **Brain-Computer Interfaces (BCI)**  
